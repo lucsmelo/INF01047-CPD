@@ -1,0 +1,2 @@
+Programa para fazer queries sobre arquivos CSV.
+Not the best program, organization and memory efficiency kinda low.
