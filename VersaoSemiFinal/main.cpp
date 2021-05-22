@@ -13,7 +13,7 @@
 #include <locale>
 #include <numeric>
 
-
+ 
 using namespace aria::csv;
 using namespace std;
 
