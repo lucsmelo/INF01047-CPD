@@ -6,7 +6,6 @@
 #include <stdexcept>
 #include <string>
 #include <vector>
-
 namespace aria {
   namespace csv {
     enum class Term { CRLF = -2 };
